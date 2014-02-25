@@ -1,10 +1,20 @@
 // Description
 
-// CODA Clips
-// This repo contains a selection of snippets (called “clips” in Coda) for use within the Coda development environment. 
+CODA Clips is repo containing a selection of snippets (called “clips” in Coda) for use within the Coda development environment. 
 
-// Author: Erin Lynch
-// E-Mail Address: erin@seeyouinshop.com
+// Author
+Author: Erin Lynch
+E-Mail Address: erin@seeyouinshop.com
+Website: http://www.seeyouinshop.com
+
+// Instructions
+Download the .clips files
+Open up Coda 2
+Select the “Home’ icon in the sidebar
+Right click in the sidebar and select “Import Clips…”
+Navigate to file and viola… clips
+
+// License
 
 The MIT License (MIT)
 

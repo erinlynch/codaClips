@@ -10,7 +10,7 @@ Website: http://www.seeyouinshop.com
 // Instructions
 Download the .clips files
 Open up Coda 2
-Select the “Home’ icon in the sidebar
+Select the “Home” icon in the sidebar
 Right click in the sidebar and select “Import Clips…”
 Navigate to file and viola… clips
 
